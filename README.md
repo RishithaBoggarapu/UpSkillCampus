@@ -1,1 +1,1 @@
-# UpSkillCampus
+# Crop and Weed Detection
